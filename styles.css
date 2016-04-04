@@ -108,7 +108,7 @@ header .profile-image:hover {
   transition: all .5s;
 }
 .card:hover {
-  border-color: #6495ed;
+  border-color: purple;
 }
 
 ul.skills {
@@ -216,5 +216,9 @@ a.social:hover {
 
 .project-image {
   width: 100%;
+}
+
+.impossible-list {
+  line-height: 1.5;
 }
 
